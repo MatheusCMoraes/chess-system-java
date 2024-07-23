@@ -22,7 +22,7 @@ public class Position {
 	}
 
 
-	public int getCollumn() {
+	public int getColumn() {
 		return column;
 	}
 
