@@ -51,7 +51,9 @@ public class Program {
 			}
 		}
 		
-
+		UI.clearScreen();
+		UI.printMatch(chessMatch, captured);
+		
 	}
 
 }
